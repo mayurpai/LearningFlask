@@ -1,0 +1,13 @@
+{
+    "params":
+    {
+      "local_server": "True",
+      "local_uri": "mysql://root:@localhost/flask",
+      "prod_uri": "mysql://root:@localhost/flask",
+      "fb_url": "https://facebook.com/codingthunder",
+      "tw_url": "https://twitter.com/codingthunder",
+      "gh_url": "https://github.com/codingthunder",
+      "blog_name": "Reliance Blog",
+      "tag_line": "A Blog Liked by Jio User"
+    }
+}
